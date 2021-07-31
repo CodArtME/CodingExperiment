@@ -1,2 +1,2 @@
-# Coding-Experiment>CodExp<
-Web Developer and Web Design Inspiration
+# Coding Experiment (CodEx)
+Web Developer & Web Design Inspiration
